@@ -1,0 +1,26 @@
+Danh sách cán bộ:
+Mã NV	Họ tên	Ngày sinh	Nơi sinh	Nguyên quán	Quốc tịch	Dân tộc	Tôn giáo	Tình trạng hôn nhân	Tình trạng sức khỏe
+nv01	Phạm Tuấn Anh (B)	1987-11-24	Hà Nội	Hà Nội	Việt Nam	Kinh	phật giáo	Chưa	Tốt
+nv02	Trần Thị Thu Hằng	1988-03-06	Ninh Bình	Ninh Bình	Việt Nam	Miền núi	Không	Chưa	Tốt
+nv03	Lê Hồng Phúc	1988-06-21	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv04	Nguyễn Thu Huyền	1989-12-07	Quản Ninh	Quảng Ninh	Việt Nam	Kinh	Không	Chưa	Tốt
+nv05	Nguyễn Hòa Bình	1986-04-09	Thái Bình	Thái Bình	Việt Nam	Kinh	Không	Chưa	Tốt
+nv06	Đào Văn Ánh	1987-06-21	Thanh Hóa	Thanh Hóa	Việt Nam	Kinh	Không	Chưa	Tốt
+nv07	Chu Anh Tiến	1988-06-17	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv08	Hoàng Thị Nguyệt	1988-07-22	Hưng Yên	Hưng Yên	Việt Nam	Kinh	Không	Chưa	Tốt
+nv09	Bùi Trọng Đạt	1988-10-18	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv10	Ninh Thị Huyền Trang	1987-10-01	Hải Dương	Hải Dương	Việt Nam	Kinh	Không	Chưa	Tốt
+nv11	Vũ Quốc Huy	1988-08-26	Hưng Yên	Hưng Yên	Việt Nam	Kinh	Không	Chưa	Tốt
+nv12	Lưu Tuấn Anh	1986-06-09	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv13	Trần Ngọc Anh	1987-04-20	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv14	Nguyễn Diệu Hương	1988-10-15	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv15	Hoàng Thị Thương	1988-03-03	Hưng Yên	Hưng Yên	Việt Nam	Kinh	Không	Chưa	Tốt
+nv16	Lê Thùy Dung	1988-11-15	Bắc Ninh	Bắc Ninh	Việt Nam	Kinh	Không	Chưa	Tốt
+nv17	Nguyễn Ngọc Linh	1987-07-16	Bắc Ninh	Bắc Ninh	Việt Nam	Kinh	Không	Chưa	Tốt
+nv18	Nguyễn Nhật Thành	1988-08-24	Điện Biên Phủ	Điện Biên Phủ	Việt Nam	Kinh	Không	Chưa	Tốt
+nv19	Lê Việt Anh	1987-04-13	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv20	Hà Viết Khương	1988-12-29	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv21	Đỗ Tiến Thắng	1988-08-02	Hà Nội	Hà Nội	Việt Nam	Kinh	Không	Chưa	Tốt
+nv22	Vũ Quang Thắng	1988-01-18	Hà Nội	Hà Nội	Việt Nam	Kinh	ko	Chưa	
+nv24	pta	1987-11-24	hn						
+nv25	pta	0000-00-00							
